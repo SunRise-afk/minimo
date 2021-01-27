@@ -1,1 +1,15 @@
-
+@font-face {
+  font-family: "Inconsolata";
+  src: url("./assets/fonts/Inconsolata-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "PlayfairDisplay";
+  src: url("./assets/fonts/PlayfairDisplay-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url("./assets/fonts/Ubuntu-Light.ttf");
+  font-weight: 300;
+}
